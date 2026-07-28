@@ -15,24 +15,79 @@ Solutions are primarily implemented in **Python**, allowing faster iteration and
 Problems are organized by core DSA topics:
 
 ## DSA File structure
-```
+```text
 DSA-Practice/
-    ├── 00_Python_Fundamentals
-    ├── 01_Arrays_&_Strings
-    ├── 02_Hashing
-    ├── 03_Two_Pointers
-    ├── 04_Recursion_&_Backtracking
-    ├── 05_Linked_Lists             # So far Completed
-    ├── 06_Stacks_&_queues            # Going On
-    ├── Trees                       # Coming up
-    ├── Heaps
-    ├── Graphs
-    ├── Greedy Algorithms
-    ├── Dynamic Programming
-    ├── Notes
-    ├── progress.md
-    ├── problems
-    └── README.md
+├── 00_Python_Fundamentals/
+│   ├── python_collections.py
+│   ├── recursion_basics.py
+│   ├── time_complexity_notes.md
+│   └── README.md
+│
+├── 01_Arrays_Strings/
+│   ├── two_sum.py
+│   ├── max_subarray.py
+│   ├── best_time_to_buy_sell_stock.py
+│   ├── reverse_string.py
+│   ├── longest_substring_without_repeating.py
+│   ├── prefix_sum_intro.py
+│   └── README.md
+│
+├── 02_Hashing/
+│   ├── valid_anagram.py
+│   ├── contains_duplicate.py
+│   ├── first_unique_character.py
+│   ├── intersection_of_arrays.py
+│   ├── subarray_sum_equals_k.py
+│   ├── longest_consecutive_sequence.py
+│   └── README.md
+│
+├── 03_Two_Pointers_Sliding_Window/
+│   ├── remove_duplicates_sorted_array.py
+│   ├── container_with_most_water.py
+│   ├── move_zeroes.py
+│   ├── longest_substring_k_distinct.py
+│   ├── max_sum_subarray_k.py
+│   ├── minimum_window_substring.py
+│   └── README.md
+│
+├── 04_Recursion_Backtracking/
+│   ├── factorial.py
+│   ├── fibonacci.py
+│   ├── subsets.py
+│   ├── permutations.py
+│   ├── combination_sum.py
+│   ├── generate_parentheses.py
+│   └── README.md
+│
+├── 05_Linked_Lists/                 ✅ Completed
+│   ├── linked_list_basics.py
+│   ├── reverse_linked_list.py
+│   ├── detect_cycle.py
+│   ├── middle_of_linked_list.py
+│   ├── merge_two_sorted_lists.py
+│   ├── remove_nth_from_end.py
+│   └── README.md
+│
+├── 06_Stacks_Queues/                🚧 In Progress
+│   ├── stack_basics.py
+│   ├── queue_basics.py
+│   ├── valid_parentheses.py
+│   ├── implement_queue_using_stacks.py
+│   ├── implement_stack_using_queues.py
+│   ├── min_stack.py
+│   ├── daily_temperatures.py
+│   └── README.md
+│
+├── 07_Trees/                        ⏳ Coming Soon
+├── 08_Heaps/                        ⏳ Coming Soon
+├── 09_Graphs/                       ⏳ Coming Soon
+├── 10_Greedy/                       ⏳ Coming Soon
+├── 11_Dynamic_Programming/          ⏳ Coming Soon
+│
+├── Notes/
+├── Problems/
+├── progress.md
+└── README.md
 ```
 
 Each topic folder contains:
