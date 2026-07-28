@@ -17,14 +17,14 @@ Problems are organized by core DSA topics:
 ## DSA File structure
 ```
 DSA-Practice/
-    ├── Python Fundamentals
-    ├── Arrays & Strings
-    ├── Hashing
-    ├── Two Pointers
-    ├── Recursion & Backtracking
-    ├── Linked Lists
-    ├── Stacks & Queues
-    ├── Trees
+    ├── 00_Python_Fundamentals
+    ├── 01_Arrays & Strings
+    ├── 02_Hashing
+    ├── 03_Two Pointers
+    ├── 04_Recursion & Backtracking
+    ├── 05_Linked_Lists             # So far Completed
+    ├── 06_Stacks&queues            # Going On
+    ├── Trees                       # Coming up
     ├── Heaps
     ├── Graphs
     ├── Greedy Algorithms
