@@ -18,12 +18,12 @@ Problems are organized by core DSA topics:
 ```
 DSA-Practice/
     ├── 00_Python_Fundamentals
-    ├── 01_Arrays & Strings
+    ├── 01_Arrays_&_Strings
     ├── 02_Hashing
-    ├── 03_Two Pointers
-    ├── 04_Recursion & Backtracking
+    ├── 03_Two_Pointers
+    ├── 04_Recursion_&_Backtracking
     ├── 05_Linked_Lists             # So far Completed
-    ├── 06_Stacks&queues            # Going On
+    ├── 06_Stacks_&_queues            # Going On
     ├── Trees                       # Coming up
     ├── Heaps
     ├── Graphs
