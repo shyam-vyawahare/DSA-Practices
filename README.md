@@ -7,7 +7,7 @@ The goal of this repository is not just to solve problems, but to **understand p
 
 Solutions are primarily implemented in **Python**, allowing faster iteration and greater focus on algorithm design rather than language verbosity. The repository follows a **topic-wise and pattern-based approach**, ensuring systematic learning and easy revision.
 
-## Last updated: 30th July 2026
+## Last updated: 31st July 2026
 
 ---
 
@@ -59,7 +59,7 @@ DSA-Practice/
 │   ├── generate_parentheses.py
 │   └── README.md
 │
-├── 05_Linked_Lists/                 ✅ Completed
+├── 05_Linked_Lists/                 
 │   ├── linked_list_basics.py
 │   ├── reverse_linked_list.py
 │   ├── detect_cycle.py
@@ -68,7 +68,7 @@ DSA-Practice/
 │   ├── remove_nth_from_end.py
 │   └── README.md
 │
-├── 06_Stacks_Queues/                🚧 In Progress
+├── 06_Stacks_Queues/                ✅ Completed 
 │   ├── stack_basics.py
 │   ├── queue_basics.py
 │   ├── valid_parentheses.py
@@ -77,7 +77,7 @@ DSA-Practice/
 │   ├── min_stack.py
 │   ├── daily_temperatures.py
 │   └── README.md
-│
+│                                    🚧 In Progress
 ├── 07_Trees/                        ⏳ Coming Soon
 ├── 08_Heaps/                        ⏳ Coming Soon
 ├── 09_Graphs/                       ⏳ Coming Soon
