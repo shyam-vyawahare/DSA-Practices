@@ -7,7 +7,7 @@ The goal of this repository is not just to solve problems, but to **understand p
 
 Solutions are primarily implemented in **Python**, allowing faster iteration and greater focus on algorithm design rather than language verbosity. The repository follows a **topic-wise and pattern-based approach**, ensuring systematic learning and easy revision.
 
-## Last updated: 31st July 2026
+## Last updated: 1st August 2026
 
 ---
 
@@ -77,8 +77,10 @@ DSA-Practice/
 │   ├── min_stack.py
 │   ├── daily_temperatures.py
 │   └── README.md
-│                                    🚧 In Progress
-├── 07_Trees/                        ⏳ Coming Soon
+│
+├── 07_Trees/                        🚧 In Progress
+│   ├── trees_basics.py
+│   └── README.md
 ├── 08_Heaps/                        ⏳ Coming Soon
 ├── 09_Graphs/                       ⏳ Coming Soon
 ├── 10_Greedy/                       ⏳ Coming Soon
