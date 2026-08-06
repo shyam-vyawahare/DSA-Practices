@@ -7,7 +7,7 @@ The goal of this repository is not just to solve problems, but to **understand p
 
 Solutions are primarily implemented in **Python**, allowing faster iteration and greater focus on algorithm design rather than language verbosity. The repository follows a **topic-wise and pattern-based approach**, ensuring systematic learning and easy revision.
 
-## Last updated: 4th August 2026
+## Last updated: 6th August 2026
 
 ---
 
@@ -82,6 +82,7 @@ DSA-Practice/
 │   ├── trees_basics.py
 │   ├── tree_traversals.py
 │   ├── level_order_traversal.py
+│   ├── maximum_depth.py
 │   └── README.md
 ├── 08_Heaps/                        ⏳ Coming Soon
 ├── 09_Graphs/                       ⏳ Coming Soon
