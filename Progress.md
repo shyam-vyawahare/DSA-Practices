@@ -15,8 +15,8 @@ Welcome to my **DSA Practice** journey! This document tracks my progress through
 | 04 | Recursion & Backtracking | ✅ Completed |
 | 05 | Linked Lists | ✅ Completed |
 | 06 | Stacks & Queues | ✅ Completed |
-| 07 | Trees | 🚧 In Progress |
-| 08 | Heaps | ⏳ Not Started |
+| 07 | Trees | ✅ Completed |
+| 08 | Heaps | 🚧 In Progress |
 | 09 | Graphs | ⏳ Not Started |
 | 10 | Greedy Algorithms | ⏳ Not Started |
 | 11 | Dynamic Programming | ⏳ Not Started |
@@ -33,12 +33,12 @@ Welcome to my **DSA Practice** journey! This document tracks my progress through
 - [x] Unit 04 – Recursion & Backtracking
 - [x] Unit 05 – Linked Lists
 - [x] Unit 06 – Stacks & Queues
+- [x] Unit 07 – Trees
 
 ### 🚧 Currently Learning
-- [ ] Unit 07 – Trees
+- [ ] Unit 08 – Heaps
 
 ### ⏳ Upcoming
-- [ ] Unit 08 – Heaps
 - [ ] Unit 09 – Graphs
 - [ ] Unit 10 – Greedy Algorithms
 - [ ] Unit 11 – Dynamic Programming
