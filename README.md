@@ -7,7 +7,7 @@ The goal of this repository is not just to solve problems, but to **understand p
 
 Solutions are primarily implemented in **Python**, allowing faster iteration and greater focus on algorithm design rather than language verbosity. The repository follows a **topic-wise and pattern-based approach**, ensuring systematic learning and easy revision.
 
-## Last updated: 16th August 2026
+## Last updated: 18th August 2026
 
 ---
 
@@ -94,6 +94,7 @@ DSA-Practice/
 │   ├── kth_largest_element.py
 │   ├── kth_smallest_element.py
 │   ├── top_k_frequent_elements.py
+│   ├── merge_k_sorted_lists.py
 │   └── README.md
 ├── 09_Graphs/                       ⏳ Coming Soon
 ├── 10_Greedy/                       ⏳ Coming Soon
