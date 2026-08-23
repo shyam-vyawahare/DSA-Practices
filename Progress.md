@@ -16,8 +16,8 @@ Welcome to my **DSA Practice** journey! This document tracks my progress through
 | 05 | Linked Lists | ✅ Completed |
 | 06 | Stacks & Queues | ✅ Completed |
 | 07 | Trees | ✅ Completed |
-| 08 | Heaps | 🚧 In Progress |
-| 09 | Graphs | ⏳ Not Started |
+| 08 | Heaps | ✅ Completed |
+| 09 | Graphs | 🚧 In Progress |
 | 10 | Greedy Algorithms | ⏳ Not Started |
 | 11 | Dynamic Programming | ⏳ Not Started |
 
@@ -34,12 +34,12 @@ Welcome to my **DSA Practice** journey! This document tracks my progress through
 - [x] Unit 05 – Linked Lists
 - [x] Unit 06 – Stacks & Queues
 - [x] Unit 07 – Trees
+- [x] Unit 08 – Heaps
 
 ### 🚧 Currently Learning
-- [ ] Unit 08 – Heaps
+- [ ] Unit 09 – Graphs
 
 ### ⏳ Upcoming
-- [ ] Unit 09 – Graphs
 - [ ] Unit 10 – Greedy Algorithms
 - [ ] Unit 11 – Dynamic Programming
 
