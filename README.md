@@ -7,7 +7,7 @@ The goal of this repository is not just to solve problems, but to **understand p
 
 Solutions are primarily implemented in **Python**, allowing faster iteration and greater focus on algorithm design rather than language verbosity. The repository follows a **topic-wise and pattern-based approach**, ensuring systematic learning and easy revision.
 
-## Last updated: 23rd August 2026
+## Last updated: 24th August 2026
 
 ---
 
@@ -98,6 +98,8 @@ DSA-Practice/
 │   ├── find_median_from_data_stream.py
 │   └── README.md
 ├── 09_Graphs/                       🚧 In Progress
+│   ├── graph_basics.py
+│   └── README.md
 ├── 10_Greedy/                       ⏳ Coming Soon
 ├── 11_Dynamic_Programming/          ⏳ Coming Soon
 │
