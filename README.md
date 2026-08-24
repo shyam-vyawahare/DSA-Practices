@@ -3,7 +3,7 @@
 ## Overview
 This repository is a structured and continuously evolving collection of **Data Structures and Algorithms (DSA)** practice problems, focused on building strong problem-solving skills and interview-ready algorithmic thinking.
 
-The goal of this repository is not just to solve problems, but to **understand patterns, optimize solutions, and write clean, readable, and scalable code**. Each solution emphasizes clarity of logic, efficiency, and correct handling of edge cases—key skills expected in technical interviews.
+The goal of this repository is not just to solve problems, but to **understand patterns, optimize solutions, and write clean, readable, and scalable code**. Each solution emphasizes clarity of logic, efficiency, and correct handling of edge cases-key skills expected in technical interviews.
 
 Solutions are primarily implemented in **Python**, allowing faster iteration and greater focus on algorithm design rather than language verbosity. The repository follows a **topic-wise and pattern-based approach**, ensuring systematic learning and easy revision.
 
@@ -88,6 +88,7 @@ DSA-Practice/
 │   ├── binary_search_tree.py
 │   ├── lowest_common_ancestor.py
 │   └── README.md
+│
 ├── 08_Heaps/                        ✅ Completed
 │   ├── heap_basics.py
 │   ├── priority_queue.py
@@ -97,10 +98,13 @@ DSA-Practice/
 │   ├── merge_k_sorted_lists.py
 │   ├── find_median_from_data_stream.py
 │   └── README.md
+│
 ├── 09_Graphs/                       🚧 In Progress
 │   ├── graph_basics.py
 │   └── README.md
+│
 ├── 10_Greedy/                       ⏳ Coming Soon
+│
 ├── 11_Dynamic_Programming/          ⏳ Coming Soon
 │
 ├── Notes/
