@@ -7,7 +7,7 @@ The goal of this repository is not just to solve problems, but to **understand p
 
 Solutions are primarily implemented in **Python**, allowing faster iteration and greater focus on algorithm design rather than language verbosity. The repository follows a **topic-wise and pattern-based approach**, ensuring systematic learning and easy revision.
 
-## Last updated: 25th August 2026
+## Last updated: 26th August 2026
 
 ---
 
@@ -102,6 +102,7 @@ DSA-Practice/
 ├── 09_Graphs/                       🚧 In Progress
 │   ├── graph_basics.py
 │   ├── graph_representation.py
+│   ├── bfs_graph.py
 │   └── README.md
 │
 ├── 10_Greedy/                       ⏳ Coming Soon
