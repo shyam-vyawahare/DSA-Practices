@@ -7,7 +7,7 @@ The goal of this repository is not just to solve problems, but to **understand p
 
 Solutions are primarily implemented in **Python**, allowing faster iteration and greater focus on algorithm design rather than language verbosity. The repository follows a **topic-wise and pattern-based approach**, ensuring systematic learning and easy revision.
 
-## Last updated: 1st of September 2026
+## Last updated: 2nd of September 2026
 
 ---
 
@@ -89,7 +89,7 @@ DSA-Practice/
 │   ├── lowest_common_ancestor.py
 │   └── README.md
 │
-├── 08_Heaps/                        ✅ Completed
+├── 08_Heaps/
 │   ├── heap_basics.py
 │   ├── priority_queue.py
 │   ├── kth_largest_element.py
@@ -100,7 +100,7 @@ DSA-Practice/
 │   ├── course_schedule.py
 │   └── README.md
 │
-├── 09_Graphs/                       🚧 In Progress
+├── 09_Graphs/                       ✅ Completed
 │   ├── graph_basics.py
 │   ├── graph_representation.py
 │   ├── bfs_graph.py
@@ -108,9 +108,10 @@ DSA-Practice/
 │   ├── number_of_islands.py
 │   ├── clone_graph.py
 │   ├── number_of_connected_components.py
+│   ├── network_delay_time.py
 │   └── README.md
 │
-├── 10_Greedy/                       ⏳ Coming Soon
+├── 10_Greedy/                       🚧 In Progress   ⏳ Coming Soon
 │
 ├── 11_Dynamic_Programming/          ⏳ Coming Soon
 │
