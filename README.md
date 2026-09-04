@@ -7,7 +7,7 @@ The goal of this repository is not just to solve problems, but to **understand p
 
 Solutions are primarily implemented in **Python**, allowing faster iteration and greater focus on algorithm design rather than language verbosity. The repository follows a **topic-wise and pattern-based approach**, ensuring systematic learning and easy revision.
 
-## Last updated: 3rd of September 2026
+## Last updated: 4th of September 2026
 
 ---
 
@@ -113,6 +113,7 @@ DSA-Practice/
 │
 ├── 10_Greedy/                       🚧 In Progress
 │   ├── greedy_basics.py
+│   ├── activity_selection.py
 │   └── README.md
 │
 ├── 11_Dynamic_Programming/          ⏳ Coming Soon
