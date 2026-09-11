@@ -7,7 +7,7 @@ The goal of this repository is not just to solve problems, but to **understand p
 
 Solutions are primarily implemented in **Python**, allowing faster iteration and greater focus on algorithm design rather than language verbosity. The repository follows a **topic-wise and pattern-based approach**, ensuring systematic learning and easy revision.
 
-## Last updated: 9th of September 2026
+## Last updated: 11th of September 2026
 
 ---
 
@@ -109,6 +109,7 @@ DSA-Practice/
 │   ├── clone_graph.py
 │   ├── number_of_connected_components.py
 │   ├── network_delay_time.py
+│   ├── jump_game.py
 │   └── README.md
 │
 ├── 10_Greedy/                       🚧 In Progress
