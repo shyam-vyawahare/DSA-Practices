@@ -118,6 +118,7 @@ DSA-Practice/
 │   ├── activity_selection.py
 │   ├── assign_cookies.py
 │   ├── jump_game_ii.py
+│   ├── partition_labels.py
 │   └── README.md
 │
 ├── 11_Dynamic_Programming/          ⏳ Coming Soon
