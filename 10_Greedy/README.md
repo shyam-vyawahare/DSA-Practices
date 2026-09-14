@@ -1,4 +1,4 @@
-# 🟢 Unit 10 — Greedy Algorithms
+# 🟢 Unit 10 - Greedy Algorithms
 
 Greedy Algorithms solve problems by making the **best possible choice at each step**, with the expectation that these local optimal choices lead to a globally optimal solution.
 
