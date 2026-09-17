@@ -123,11 +123,13 @@ DSA-Practice/
 │   ├── task_scheduler.py
 │   └── README.md
 │
-├── 11_Dynamic_Programming/          🚧 In Progress ⏳ Coming Soon
+├── 11_Dynamic_Programming/          🚧 In Progress
+│   ├── dp_basics.py
+│   └── README.md
 │
-├── Notes/
-├── Problems/
-├── progress.md
+├── Notes/                           ⏳ Coming Soon
+├── Problems/                        ⏳ Coming Soon
+├── progress.md                      ✅ Check progress
 └── README.md
 ```
 
