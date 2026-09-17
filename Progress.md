@@ -18,8 +18,8 @@ Welcome to my **DSA Practice** journey! This document tracks my progress through
 | 07 | Trees | ✅ Completed |
 | 08 | Heaps | ✅ Completed |
 | 09 | Graphs | ✅ Completed |
-| 10 | Greedy Algorithms | 🚧 In Progress |
-| 11 | Dynamic Programming | ⏳ Not Started |
+| 10 | Greedy Algorithms | ✅ Completed |
+| 11 | Dynamic Programming | 🚧 In Progress |
 
 ---
 
@@ -36,12 +36,13 @@ Welcome to my **DSA Practice** journey! This document tracks my progress through
 - [x] Unit 07 – Trees
 - [x] Unit 08 – Heaps
 - [x] Unit 09 – Graphs
+- [x] Unit 10 – Greedy Algorithms
 
 ### 🚧 Currently Learning
-- [ ] Unit 10 – Greedy Algorithms
+- [ ] Unit 11 – Dynamic Programming
 
 ### ⏳ Upcoming
-- [ ] Unit 11 – Dynamic Programming
+- [ ] Problems on various Units
 
 ---
 
