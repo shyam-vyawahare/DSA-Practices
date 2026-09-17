@@ -7,7 +7,7 @@ The goal of this repository is not just to solve problems, but to **understand p
 
 Solutions are primarily implemented in **Python**, allowing faster iteration and greater focus on algorithm design rather than language verbosity. The repository follows a **topic-wise and pattern-based approach**, ensuring systematic learning and easy revision.
 
-## Last updated: 16th of September 2026
+## Last updated: 17th of September 2026
 
 ---
 
@@ -100,7 +100,7 @@ DSA-Practice/
 │   ├── course_schedule.py
 │   └── README.md
 │
-├── 09_Graphs/                       ✅ Completed
+├── 09_Graphs/
 │   ├── graph_basics.py
 │   ├── graph_representation.py
 │   ├── bfs_graph.py
@@ -112,7 +112,7 @@ DSA-Practice/
 │   ├── jump_game.py
 │   └── README.md
 │
-├── 10_Greedy/                       🚧 In Progress
+├── 10_Greedy/                       ✅ Completed
 │   ├── greedy_basics.py
 │   ├── gas_station.py
 │   ├── activity_selection.py
@@ -123,7 +123,7 @@ DSA-Practice/
 │   ├── task_scheduler.py
 │   └── README.md
 │
-├── 11_Dynamic_Programming/          ⏳ Coming Soon
+├── 11_Dynamic_Programming/          🚧 In Progress ⏳ Coming Soon
 │
 ├── Notes/
 ├── Problems/
