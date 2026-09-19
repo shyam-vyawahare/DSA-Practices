@@ -1,4 +1,4 @@
-# 🧠 Unit 11 — Dynamic Programming
+# 🧠 Unit 11 - Dynamic Programming
 
 Dynamic Programming (DP) is a problem-solving technique used to solve complex problems by breaking them into smaller subproblems, solving each subproblem once, and storing the results for future use.
 
@@ -40,3 +40,4 @@ Store the result
 Reuse previously calculated results
               ↓
 Build the final answer
+```
