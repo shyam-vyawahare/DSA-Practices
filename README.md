@@ -7,7 +7,7 @@ The goal of this repository is not just to solve problems, but to **understand p
 
 Solutions are primarily implemented in **Python**, allowing faster iteration and greater focus on algorithm design rather than language verbosity. The repository follows a **topic-wise and pattern-based approach**, ensuring systematic learning and easy revision.
 
-## Last updated: 24th of September 2026
+## Last updated: 25th of September 2026
 
 ---
 
@@ -130,6 +130,7 @@ DSA-Practice/
 │   ├── house_robber.py
 │   ├── longest_increasing_subsequence.py
 │   ├── longest_common_subsequence.py
+│   ├── partition_equal_subset_sum.py
 │   ├── unique_paths.py
 │   ├── word_break.py
 │   └── README.md
