@@ -112,7 +112,7 @@ DSA-Practice/
 │   ├── jump_game.py
 │   └── README.md
 │
-├── 10_Greedy/                       ✅ Completed
+├── 10_Greedy/                       
 │   ├── greedy_basics.py
 │   ├── gas_station.py
 │   ├── activity_selection.py
@@ -123,8 +123,9 @@ DSA-Practice/
 │   ├── task_scheduler.py
 │   └── README.md
 │
-├── 11_Dynamic_Programming/          🚧 In Progress
+├── 11_Dynamic_Programming/          ✅ Completed
 │   ├── dp_basics.py
+│   ├── decode_ways.py
 │   ├── climbing_stairs.py
 │   ├── coin_change.py
 │   ├── house_robber.py
@@ -135,7 +136,7 @@ DSA-Practice/
 │   ├── unique_paths.py
 │   ├── word_break.py
 │   └── README.md
-│
+│                                    🚧 In Progress
 ├── Notes/                           ⏳ Coming Soon
 ├── Problems/                        ⏳ Coming Soon
 ├── progress.md                      ✅ Check progress
